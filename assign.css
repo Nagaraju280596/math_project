@@ -1,0 +1,43 @@
+
+
+#header{
+    height: 60px;
+    width: auto;
+    background-color: rgb(22, 55, 163);
+}
+
+#head li{
+    float: left;
+    margin:20px;
+    list-style-type: none;
+    color: white;
+}
+
+#image img{
+    width: 1400px;
+    height:200px
+}
+
+.container{
+    width:auto;
+    height: 200px;
+    background-color: rgb(219, 212, 212);
+}
+
+#box{
+    width:100px;
+    height: 120px;
+    border: 2px solid gray;
+    float: left;
+    margin: 40px;
+    text-align: center;
+    background-color: white;
+    text-align: center;
+    padding-top: 25px;
+}
+.footer #about{
+    height: 100px;
+    width: auto;
+    border: 2px solid black;
+}
+

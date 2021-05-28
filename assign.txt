@@ -1,0 +1,61 @@
+li{
+    float: left;
+    margin: 20px;
+    list-style-type: none;
+}
+
+#header{
+    height: 50px;
+    width: auto;
+    background-color: rgb(31, 136, 197);
+}
+
+#head{
+    margin: 18px;
+}
+
+#company{
+    margin-left: 10px;
+    margin-right: 100px;
+}
+
+img{
+    height: 200px;
+    width:1040px;
+}
+
+#box{
+    width:100px;
+    height: 120px;
+    border: 2px solid gray;
+    float: left;
+    margin: 40px;
+    text-align: center;
+    background-color: white;
+    text-align: center;
+    padding-top: 25px;
+    mar
+}
+
+.container{
+    background-color: rgb(156, 154, 154);
+    width: auto;
+    height: 200px;
+}
+
+input{
+    width:50opx;
+    height: 25px;
+    background-color: skyblue;
+    margin-top: 80px;
+}
+
+.footer{
+    width:auto;
+    height: 200px;
+    background-color: deepskyblue;
+}
+
+.community{
+    float: left;
+}

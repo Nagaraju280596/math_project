@@ -1,0 +1,29 @@
+#form{
+    background: cornflowerblue;
+}
+
+input{
+    margin: 15px;
+    text-align: center;
+
+}
+
+#sub{
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+#box{
+    height: 200px;
+    width: 300px;
+    border: 2px solid red;
+    margin: 10px;
+    background-color:yellow;
+    float: left;
+}
+
+#box:nth-child(2n){
+    background: violet;
+    box-shadow: black black 7px;
+}
